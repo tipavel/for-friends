@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# .NET Core
+bin/
+obj/
+publish/
+*.tsbuildinfo
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Mac
+.DS_Store
+
+# Frontend build output
+frontend/dist/
+frontend/dist-ssr/
